@@ -1,0 +1,26 @@
+{
+    "dialogues": {
+        "Men": [
+            "'We cannot see at night.'",
+            "'It is impossible to look after our cattle in the dark and we are often afraid of the great shadows that appear out of nowhere.'"
+        ],
+        "Wisest Elder": [
+            "'We must pray to God to give us two suns.'",
+            "'One that rises in the east and one that rises in the west. If he provides us with these, we will never have to tolerate night again.'",
+            "'Indeed you have shown greater wisdom than any of us.'",
+            "'We are fortunate to have you among us.'"
+        ],
+        "Hare": [
+            "'How will we get any shade?'",
+            "'I only wanted to say that if we had two suns there would never be any shade again. All the waters of the rivers and lakes will dry up. We shall never be able to sleep and our cattle will die of heat and thirst. There will be fires and hunger in the land and we shall all eventually perish.'"
+        ],
+        "Warrior": [
+            "'Don\u2019t be afraid of them.'",
+            "'Go on! Speak! Be proud of what you have to say.'"
+        ],
+        "Third Elder": [
+            "'Speak up, great prophet.'",
+            "'Let us hear your wise words of counsel.'"
+        ]
+    }
+}
